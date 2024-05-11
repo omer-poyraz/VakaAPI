@@ -1,0 +1,6 @@
+@Vaka_HostAddress = http://localhost:5078
+
+GET {{Vaka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
