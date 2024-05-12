@@ -26,6 +26,13 @@ namespace Presentation.Controllers
             return Ok(rooms.roomDto);
         }
 
+        [HttpGet("Structure/{id:int}")]
+        public async Task<IActionResult> GetAllByStructureAsync([FromRoute] int id)
+        {
+            var room = await _manager.RoomService.GetAllByStructureAsync(id, false);
+            return Ok(room);
+        }
+
         [HttpGet("Get/{id:int}")]
         public async Task<IActionResult> GetRoomAsync([FromRoute] int id)
         {

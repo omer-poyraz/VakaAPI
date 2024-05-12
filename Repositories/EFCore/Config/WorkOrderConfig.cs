@@ -8,7 +8,7 @@ namespace Repositories.EFCore.Config
     {
         public void Configure(EntityTypeBuilder<WorkOrder> builder)
         {
-            //builder.HasKey(w => w.WorkOrderId);
+            
         }
     }
 }

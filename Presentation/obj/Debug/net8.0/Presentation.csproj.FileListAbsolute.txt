@@ -17,3 +17,4 @@ C:\Users\user\Desktop\Vaka\Presentation\bin\Debug\net8.0\Services.pdb
 C:\Users\user\Desktop\Vaka\Presentation\bin\Debug\net8.0\Entities.pdb
 C:\Users\user\Desktop\Vaka\Presentation\bin\Debug\net8.0\Repositories.pdb
 C:\Users\user\Desktop\Vaka\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+C:\Users\user\Desktop\Vaka\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json

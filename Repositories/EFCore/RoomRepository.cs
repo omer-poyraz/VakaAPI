@@ -24,6 +24,18 @@ namespace Repositories.EFCore
             return room;
         }
 
+        public async Task<IEnumerable<Room>> GetAllByStructureAsync(int structureId, bool trackChanges)
+        {
+            var rooms = await FindAll(trackChanges)
+                .Where(r => r.StructureId.Equals(structureId))
+                .OrderBy(r => r.RoomId)
+                .Include(r => r.WorkOrders)
+                .Include(r => r.Structure)
+                .Include(r => r.Products)
+                .ToListAsync();
+            return rooms;
+        }
+
         public async Task<PagedList<Room>> GetAllRoomsAsync(RoomParameters parameters, bool trackChanges)
         {
             var rooms = await FindAll(trackChanges)

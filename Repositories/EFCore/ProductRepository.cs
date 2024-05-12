@@ -29,8 +29,6 @@ namespace Repositories.EFCore
             var products = await FindAll(trackChanges)
                 .OrderBy(p => p.ProductId)
                 .Include(p => p.WorkOrder)
-                .Include(p => p.Room)
-                .Include(p => p.Store)
                 .SearchProduct(parameters.SearchTerm!)
                 .ToListAsync();
 
@@ -40,8 +38,6 @@ namespace Repositories.EFCore
         public async Task<Product> GetProductAsync(int id, bool trackChanges) =>
             await FindByCondition(p => p.ProductId.Equals(id), trackChanges)
             .Include(p => p.WorkOrder)
-            .Include(p => p.Room)
-            .Include(p => p.Store)
             .SingleOrDefaultAsync();
 
         public Product UpdateProduct(Product product)

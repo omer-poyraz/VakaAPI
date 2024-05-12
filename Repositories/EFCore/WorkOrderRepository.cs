@@ -12,6 +12,30 @@ namespace Repositories.EFCore
         {
         }
 
+        public WorkOrder CreateProductWorkOrder(WorkOrder workOrder)
+        {
+            Create(workOrder);
+            return workOrder;
+        }
+
+        public WorkOrder CreateRoomWorkOrder(WorkOrder workOrder)
+        {
+            Create(workOrder);
+            return workOrder;
+        }
+
+        public WorkOrder CreateStoreWorkOrder(WorkOrder workOrder)
+        {
+            Create(workOrder);
+            return workOrder;
+        }
+
+        public WorkOrder CreateStructureWorkOrder(WorkOrder workOrder)
+        {
+            Create(workOrder);
+            return workOrder;
+        }
+
         public WorkOrder CreateWorkOrder(WorkOrder workOrder)
         {
             Create(workOrder);
@@ -36,6 +60,58 @@ namespace Repositories.EFCore
                 .ToListAsync();
 
             return PagedList<WorkOrder>.ToPagedList(workOrders, parameters.PageNumber, parameters.PageSize);
+        }
+
+        public async Task<IEnumerable<WorkOrder>> GetProductWorkOrderAsync(int productId, bool trackChanges)
+        {
+            var workOrders = await FindAll(trackChanges)
+                .OrderBy(w => w.WorkOrderId)
+                .Include(w => w.Product)
+                .Include(w => w.Room)
+                .Include(w => w.Store)
+                .Include(w => w.Structure)
+                .Where(w => w.ProductId.Equals(productId))
+                .ToListAsync();
+            return workOrders;
+        }
+
+        public async Task<IEnumerable<WorkOrder>> GetRoomWorkOrderAsync(int roomId, bool trackChanges)
+        {
+            var workOrders = await FindAll(trackChanges)
+                .OrderBy(w => w.WorkOrderId)
+                .Include(w => w.Product)
+                .Include(w => w.Room)
+                .Include(w => w.Store)
+                .Include(w => w.Structure)
+                .Where(w => w.RoomId.Equals(roomId))
+                .ToListAsync();
+            return workOrders;
+        }
+
+        public async Task<IEnumerable<WorkOrder>> GetStoreWorkOrderAsync(int storeId, bool trackChanges)
+        {
+            var workOrders = await FindAll(trackChanges)
+                .OrderBy(w => w.WorkOrderId)
+                .Include(w => w.Product)
+                .Include(w => w.Room)
+                .Include(w => w.Store)
+                .Include(w => w.Structure)
+                .Where(w => w.StoreId.Equals(storeId))
+                .ToListAsync();
+            return workOrders;
+        }
+
+        public async Task<IEnumerable<WorkOrder>> GetStructureWorkOrderAsync(int structureId, bool trackChanges)
+        {
+            var workOrders = await FindAll(trackChanges)
+                .OrderBy(w => w.WorkOrderId)
+                .Include(w => w.Product)
+                .Include(w => w.Room)
+                .Include(w => w.Store)
+                .Include(w => w.Structure)
+                .Where(w => w.StructureId.Equals(structureId))
+                .ToListAsync();
+            return workOrders;
         }
 
         public async Task<WorkOrder> GetWorkOrderAsync(int id, bool trackChanges) =>

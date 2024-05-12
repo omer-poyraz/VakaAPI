@@ -766,3 +766,423 @@
 2024-05-11 05:15:30.5046 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
 2024-05-11 05:15:30.5220 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
 2024-05-11 05:15:30.5423 Info Configuration initialized.
+2024-05-11 12:22:06.5379 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 12:22:06.5606 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 12:22:06.5606 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 12:22:06.5830 Info Configuration initialized.
+2024-05-11 13:02:11.0483 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 13:02:11.1277 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 13:02:11.1393 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 13:02:11.1393 Info Configuration initialized.
+2024-05-11 13:39:52.1137 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 13:39:52.1305 Info LogFactory has been closed.
+2024-05-11 13:48:23.5368 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 13:48:23.5593 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 13:48:23.5593 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 13:48:23.5829 Info Configuration initialized.
+2024-05-11 13:52:20.2576 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 13:52:20.3154 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 13:52:20.3312 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 13:52:20.3552 Info Configuration initialized.
+2024-05-11 14:27:46.7749 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 14:27:46.7907 Info LogFactory has been closed.
+2024-05-11 14:49:59.6270 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 14:49:59.6597 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 14:49:59.6725 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 14:49:59.6918 Info Configuration initialized.
+2024-05-11 15:29:49.0769 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:29:49.0981 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:29:49.1070 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:29:49.1070 Info Configuration initialized.
+2024-05-11 15:38:32.4065 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:38:32.4365 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:38:32.4564 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:38:32.4730 Info Configuration initialized.
+2024-05-11 15:44:34.7799 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:44:34.7939 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:44:34.7939 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:44:34.8119 Info Configuration initialized.
+2024-05-11 15:44:36.0106 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 15:44:36.0180 Info LogFactory has been closed.
+2024-05-11 15:44:40.5828 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:44:40.5956 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:44:40.5956 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:44:40.6145 Info Configuration initialized.
+2024-05-11 15:44:41.8116 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 15:44:41.8116 Info LogFactory has been closed.
+2024-05-11 15:44:49.9358 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:44:49.9358 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:44:49.9561 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:44:49.9561 Info Configuration initialized.
+2024-05-11 15:44:51.0474 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 15:44:51.0474 Info LogFactory has been closed.
+2024-05-11 15:44:58.7320 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:44:58.7595 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:44:58.7740 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:44:58.7901 Info Configuration initialized.
+2024-05-11 15:49:45.2026 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:49:45.2307 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:49:45.2453 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:49:45.2608 Info Configuration initialized.
+2024-05-11 15:52:53.8301 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:52:53.8854 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:52:53.9340 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:52:53.9514 Info Configuration initialized.
+2024-05-11 15:56:38.7821 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:56:38.7950 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:56:38.7950 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:56:38.8119 Info Configuration initialized.
+2024-05-11 15:56:39.8170 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 15:56:39.8170 Info LogFactory has been closed.
+2024-05-11 15:56:43.4166 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:56:43.4298 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:56:43.4375 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:56:43.4375 Info Configuration initialized.
+2024-05-11 15:56:44.6273 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 15:56:44.6273 Info LogFactory has been closed.
+2024-05-11 15:56:49.6366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:56:49.6504 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:56:49.6610 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:56:49.6709 Info Configuration initialized.
+2024-05-11 15:56:50.7099 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 15:56:50.7161 Info LogFactory has been closed.
+2024-05-11 15:56:56.7324 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:56:56.7534 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:56:56.7653 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:56:56.7794 Info Configuration initialized.
+2024-05-11 15:57:47.8850 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:57:47.8977 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:57:47.9048 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:57:47.9048 Info Configuration initialized.
+2024-05-11 15:57:49.1473 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 15:57:49.1536 Info LogFactory has been closed.
+2024-05-11 15:57:52.0908 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:57:52.0908 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:57:52.1117 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:57:52.1117 Info Configuration initialized.
+2024-05-11 15:57:53.3623 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 15:57:53.3623 Info LogFactory has been closed.
+2024-05-11 15:58:18.3192 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:58:18.3325 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:58:18.3325 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:58:18.3488 Info Configuration initialized.
+2024-05-11 15:58:19.5074 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 15:58:19.5151 Info LogFactory has been closed.
+2024-05-11 15:58:23.0620 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 15:58:23.0743 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 15:58:23.0743 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 15:58:23.0916 Info Configuration initialized.
+2024-05-11 15:58:24.1181 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 15:58:24.1256 Info LogFactory has been closed.
+2024-05-11 16:06:49.3149 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:06:49.3274 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:06:49.3274 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:06:49.3438 Info Configuration initialized.
+2024-05-11 16:06:50.0410 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:06:50.0471 Info LogFactory has been closed.
+2024-05-11 16:06:51.4303 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:06:51.4421 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:06:51.4500 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:06:51.4500 Info Configuration initialized.
+2024-05-11 16:06:52.5526 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:06:52.5589 Info LogFactory has been closed.
+2024-05-11 16:06:58.3968 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:06:58.4091 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:06:58.4091 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:06:58.4258 Info Configuration initialized.
+2024-05-11 16:06:59.6769 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:06:59.6852 Info LogFactory has been closed.
+2024-05-11 16:07:03.7586 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:07:03.7719 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:07:03.7792 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:07:03.7792 Info Configuration initialized.
+2024-05-11 16:07:05.4388 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:07:05.4388 Info LogFactory has been closed.
+2024-05-11 16:07:51.8072 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:07:51.8195 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:07:51.8269 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:07:51.8269 Info Configuration initialized.
+2024-05-11 16:07:52.5756 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:07:52.5756 Info LogFactory has been closed.
+2024-05-11 16:07:53.6713 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:07:53.6841 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:07:53.6841 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:07:53.7011 Info Configuration initialized.
+2024-05-11 16:07:54.6149 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:07:54.6149 Info LogFactory has been closed.
+2024-05-11 16:07:59.0252 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:07:59.0380 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:07:59.0461 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:07:59.0591 Info Configuration initialized.
+2024-05-11 16:08:00.2675 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:08:00.2675 Info LogFactory has been closed.
+2024-05-11 16:08:05.8773 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:08:05.8899 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:08:05.8899 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:08:05.9061 Info Configuration initialized.
+2024-05-11 16:08:07.6168 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:08:07.6242 Info LogFactory has been closed.
+2024-05-11 16:10:14.0550 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:10:14.0679 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:10:14.0753 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:10:14.0753 Info Configuration initialized.
+2024-05-11 16:10:14.7931 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:10:14.7994 Info LogFactory has been closed.
+2024-05-11 16:10:15.6336 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:10:15.6453 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:10:15.6453 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:10:15.6622 Info Configuration initialized.
+2024-05-11 16:10:16.6243 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:10:16.6243 Info LogFactory has been closed.
+2024-05-11 16:10:23.0119 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:10:23.0119 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:10:23.0321 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:10:23.0321 Info Configuration initialized.
+2024-05-11 16:10:24.2431 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:10:24.2493 Info LogFactory has been closed.
+2024-05-11 16:10:28.8082 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:10:28.8206 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:10:28.8277 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:10:28.8277 Info Configuration initialized.
+2024-05-11 16:10:30.5014 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:10:30.5014 Info LogFactory has been closed.
+2024-05-11 16:11:41.4849 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:11:41.4984 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:11:41.4984 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:11:41.5160 Info Configuration initialized.
+2024-05-11 16:11:42.2860 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:11:42.2931 Info LogFactory has been closed.
+2024-05-11 16:11:43.1941 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:11:43.2074 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:11:43.2074 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:11:43.2244 Info Configuration initialized.
+2024-05-11 16:11:44.1487 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:11:44.1555 Info LogFactory has been closed.
+2024-05-11 16:11:46.0583 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:11:46.0702 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:11:46.0773 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:11:46.0773 Info Configuration initialized.
+2024-05-11 16:11:47.3605 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:11:47.3605 Info LogFactory has been closed.
+2024-05-11 16:11:50.2613 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:11:50.2749 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:11:50.2825 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:11:50.2825 Info Configuration initialized.
+2024-05-11 16:11:51.9916 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:11:51.9977 Info LogFactory has been closed.
+2024-05-11 16:12:15.5743 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:12:15.5880 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:12:15.5967 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:12:15.6059 Info Configuration initialized.
+2024-05-11 16:12:16.1141 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:12:16.1141 Info LogFactory has been closed.
+2024-05-11 16:12:20.9388 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:12:20.9518 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:12:20.9518 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:12:20.9693 Info Configuration initialized.
+2024-05-11 16:12:21.5063 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:12:21.5129 Info LogFactory has been closed.
+2024-05-11 16:12:35.8748 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:12:35.8877 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:12:35.8877 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:12:35.9043 Info Configuration initialized.
+2024-05-11 16:12:36.6425 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:12:36.6425 Info LogFactory has been closed.
+2024-05-11 16:12:37.8034 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:12:37.8163 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:12:37.8163 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:12:37.8332 Info Configuration initialized.
+2024-05-11 16:12:38.7451 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:12:38.7510 Info LogFactory has been closed.
+2024-05-11 16:12:41.6626 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:12:41.6748 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:12:41.6748 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:12:41.6916 Info Configuration initialized.
+2024-05-11 16:12:42.9072 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:12:42.9072 Info LogFactory has been closed.
+2024-05-11 16:12:49.2078 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:12:49.2198 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:12:49.2198 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:12:49.2361 Info Configuration initialized.
+2024-05-11 16:12:50.8720 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:12:50.8720 Info LogFactory has been closed.
+2024-05-11 16:17:34.8415 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:17:34.8415 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:17:34.8611 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:17:34.8611 Info Configuration initialized.
+2024-05-11 16:17:35.5949 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:17:35.5949 Info LogFactory has been closed.
+2024-05-11 16:17:36.4489 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:17:36.4617 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:17:36.4693 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:17:36.4693 Info Configuration initialized.
+2024-05-11 16:17:37.4247 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:17:37.4247 Info LogFactory has been closed.
+2024-05-11 16:19:10.8679 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:19:10.8804 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:19:10.8895 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:19:10.8895 Info Configuration initialized.
+2024-05-11 16:19:12.1276 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:19:12.1276 Info LogFactory has been closed.
+2024-05-11 16:19:16.3025 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:19:16.3147 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:19:16.3147 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:19:16.3308 Info Configuration initialized.
+2024-05-11 16:19:17.9669 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:19:17.9669 Info LogFactory has been closed.
+2024-05-11 16:20:56.3444 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:20:56.3575 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:20:56.3575 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:20:56.3741 Info Configuration initialized.
+2024-05-11 16:20:57.1113 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:20:57.1113 Info LogFactory has been closed.
+2024-05-11 16:20:58.3041 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:20:58.3167 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:20:58.3167 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:20:58.3330 Info Configuration initialized.
+2024-05-11 16:20:59.2490 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:20:59.2490 Info LogFactory has been closed.
+2024-05-11 16:21:01.4436 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:21:01.4564 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:21:01.4564 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:21:01.4730 Info Configuration initialized.
+2024-05-11 16:21:02.7432 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:21:02.7551 Info LogFactory has been closed.
+2024-05-11 16:21:05.9513 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:21:05.9513 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:21:05.9727 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:21:05.9821 Info Configuration initialized.
+2024-05-11 16:21:07.5404 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:21:07.5478 Info LogFactory has been closed.
+2024-05-11 16:22:15.3921 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:22:15.4041 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:22:15.4041 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:22:15.4208 Info Configuration initialized.
+2024-05-11 16:22:16.1370 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:22:16.1432 Info LogFactory has been closed.
+2024-05-11 16:22:17.0630 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:22:17.0752 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:22:17.0752 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:22:17.0950 Info Configuration initialized.
+2024-05-11 16:22:18.0312 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:22:18.0312 Info LogFactory has been closed.
+2024-05-11 16:22:19.9707 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:22:19.9829 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:22:19.9829 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:22:19.9988 Info Configuration initialized.
+2024-05-11 16:22:21.1857 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:22:21.1857 Info LogFactory has been closed.
+2024-05-11 16:22:23.9365 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:22:23.9365 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:22:23.9563 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:22:23.9563 Info Configuration initialized.
+2024-05-11 16:22:25.5313 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:22:25.5313 Info LogFactory has been closed.
+2024-05-11 16:25:49.5999 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:25:49.6126 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:25:49.6126 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:25:49.6296 Info Configuration initialized.
+2024-05-11 16:25:50.3290 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:25:50.3290 Info LogFactory has been closed.
+2024-05-11 16:25:51.3723 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:25:51.3723 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:25:51.3926 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:25:51.3926 Info Configuration initialized.
+2024-05-11 16:25:52.3389 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:25:52.3487 Info LogFactory has been closed.
+2024-05-11 16:25:54.1849 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:25:54.1849 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:25:54.2041 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:25:54.2041 Info Configuration initialized.
+2024-05-11 16:25:55.3496 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:25:55.3557 Info LogFactory has been closed.
+2024-05-11 16:25:58.4013 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:25:58.4140 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:25:58.4215 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:25:58.4215 Info Configuration initialized.
+2024-05-11 16:26:00.0544 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:26:00.0611 Info LogFactory has been closed.
+2024-05-11 16:26:08.3764 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:26:08.4111 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:26:08.4269 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:26:08.4399 Info Configuration initialized.
+2024-05-11 16:55:49.1783 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:55:49.1987 Info LogFactory has been closed.
+2024-05-11 16:59:06.9457 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:59:06.9600 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:59:06.9674 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:59:06.9674 Info Configuration initialized.
+2024-05-11 16:59:08.3551 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:59:08.3630 Info LogFactory has been closed.
+2024-05-11 16:59:13.2733 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:59:13.2857 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:59:13.2857 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:59:13.3015 Info Configuration initialized.
+2024-05-11 16:59:14.3747 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 16:59:14.3747 Info LogFactory has been closed.
+2024-05-11 16:59:25.1731 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 16:59:25.1991 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 16:59:25.2080 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 16:59:25.2187 Info Configuration initialized.
+2024-05-11 17:25:42.2431 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 17:25:42.2573 Info LogFactory has been closed.
+2024-05-11 18:11:59.5132 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 18:11:59.5132 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 18:11:59.5335 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 18:11:59.5454 Info Configuration initialized.
+2024-05-11 18:12:01.1033 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 18:12:01.1098 Info LogFactory has been closed.
+2024-05-11 18:12:07.5079 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 18:12:07.5225 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 18:12:07.5303 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 18:12:07.5303 Info Configuration initialized.
+2024-05-11 18:12:08.8024 Info AppDomain Shutting down. LogFactory closing...
+2024-05-11 18:12:08.8086 Info LogFactory has been closed.
+2024-05-11 18:12:29.0815 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 18:12:29.1074 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 18:12:29.1074 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 18:12:29.1282 Info Configuration initialized.
+2024-05-11 19:23:00.4359 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 19:23:00.5047 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 19:23:00.5144 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 19:23:00.5144 Info Configuration initialized.
+2024-05-11 19:27:21.7819 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 19:27:21.8338 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 19:27:21.8601 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 19:27:21.8884 Info Configuration initialized.
+2024-05-11 20:35:49.2968 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-11 20:35:49.3245 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-11 20:35:49.3245 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-11 20:35:49.3501 Info Configuration initialized.
+2024-05-12 00:57:02.3286 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-12 00:57:02.4010 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-12 00:57:02.4221 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-12 00:57:02.4608 Info Configuration initialized.
+2024-05-12 01:07:01.5709 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-12 01:07:01.5940 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-12 01:07:01.5940 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-12 01:07:01.6185 Info Configuration initialized.
+2024-05-12 01:59:43.7944 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-12 01:59:43.7944 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-12 01:59:43.8181 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-12 01:59:43.8280 Info Configuration initialized.
+2024-05-12 01:59:45.5518 Info AppDomain Shutting down. LogFactory closing...
+2024-05-12 01:59:45.5593 Info LogFactory has been closed.
+2024-05-12 01:59:58.2825 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-12 01:59:58.2974 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-12 01:59:58.2974 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-12 01:59:58.3147 Info Configuration initialized.
+2024-05-12 01:59:59.6912 Info AppDomain Shutting down. LogFactory closing...
+2024-05-12 01:59:59.6912 Info LogFactory has been closed.
+2024-05-12 02:00:18.2550 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-12 02:00:18.2759 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-12 02:00:18.2859 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-12 02:00:18.2988 Info Configuration initialized.
+2024-05-12 03:14:31.1200 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-12 03:14:31.2360 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-12 03:14:31.2640 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-12 03:14:31.2796 Info Configuration initialized.
+2024-05-12 03:19:34.0381 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-12 03:19:34.1014 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-05-12 03:19:34.1250 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\user\Desktop\Vaka\Vaka\nlog.config
+2024-05-12 03:19:34.1595 Info Configuration initialized.

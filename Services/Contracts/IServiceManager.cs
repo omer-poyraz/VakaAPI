@@ -10,5 +10,8 @@
         IStoreService StoreService { get; }
         IStructureService StructureService { get; }
         IWorkOrderService WorkOrderService { get; }
+        IProductRoomService ProductRoomService { get; }
+        IProductStoreService ProductStoreService { get; }
+        ISaveStoreService SaveStoreService { get; }
     }
 }

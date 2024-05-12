@@ -8,7 +8,7 @@ namespace Repositories.EFCore.Config
     {
         public void Configure(EntityTypeBuilder<Product> builder)
         {
-            //builder.HasKey(p => p.ProductId);
+            
         }
     }
 }

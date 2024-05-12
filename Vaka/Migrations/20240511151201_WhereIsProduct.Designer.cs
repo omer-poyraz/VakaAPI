@@ -12,8 +12,8 @@ using Repositories.EFCore;
 namespace Vaka.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    [Migration("20240511003637_Init")]
-    partial class Init
+    [Migration("20240511151201_WhereIsProduct")]
+    partial class WhereIsProduct
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -33,16 +33,13 @@ namespace Vaka.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductId"));
 
-                    b.Property<bool>("IsExit")
-                        .HasColumnType("bit");
-
                     b.Property<string>("ProductName")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("RoomId")
+                    b.Property<int?>("RoomId")
                         .HasColumnType("int");
 
-                    b.Property<int>("StoreId")
+                    b.Property<int?>("StoreId")
                         .HasColumnType("int");
 
                     b.HasKey("ProductId");
@@ -52,6 +49,42 @@ namespace Vaka.Migrations
                     b.HasIndex("StoreId");
 
                     b.ToTable("Products");
+                });
+
+            modelBuilder.Entity("Entities.Models.ProductRoom", b =>
+                {
+                    b.Property<int>("ProductRoomId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductRoomId"));
+
+                    b.Property<int?>("ProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("ProductRoomId");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ProductRoom");
+                });
+
+            modelBuilder.Entity("Entities.Models.ProductStore", b =>
+                {
+                    b.Property<int>("ProductStoreId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductStoreId"));
+
+                    b.Property<int?>("ProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("ProductStoreId");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ProductStore");
                 });
 
             modelBuilder.Entity("Entities.Models.Room", b =>
@@ -65,7 +98,7 @@ namespace Vaka.Migrations
                     b.Property<string>("RoomName")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("StructureId")
+                    b.Property<int?>("StructureId")
                         .HasColumnType("int");
 
                     b.HasKey("RoomId");
@@ -86,7 +119,7 @@ namespace Vaka.Migrations
                     b.Property<string>("StoreName")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("StructureId")
+                    b.Property<int?>("StructureId")
                         .HasColumnType("int");
 
                     b.HasKey("StoreId");
@@ -203,16 +236,16 @@ namespace Vaka.Migrations
                     b.Property<bool>("IsCompleted")
                         .HasColumnType("bit");
 
-                    b.Property<int>("ProductId")
+                    b.Property<int?>("ProductId")
                         .HasColumnType("int");
 
-                    b.Property<int>("RoomId")
+                    b.Property<int?>("RoomId")
                         .HasColumnType("int");
 
-                    b.Property<int>("StoreId")
+                    b.Property<int?>("StoreId")
                         .HasColumnType("int");
 
-                    b.Property<int>("StructureId")
+                    b.Property<int?>("StructureId")
                         .HasColumnType("int");
 
                     b.Property<string>("WorkOrderName")
@@ -265,13 +298,13 @@ namespace Vaka.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "d98dcee6-80f7-4554-a52b-fcc539ec24b3",
+                            Id = "af7e4799-34ff-4fa2-8e90-f2ba2d7dbcbf",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         },
                         new
                         {
-                            Id = "2d46da01-6638-4ec8-abb0-0ec954365aea",
+                            Id = "e061c079-3b6d-437e-9856-1f85bde8465d",
                             Name = "User",
                             NormalizedName = "USER"
                         });
@@ -385,29 +418,38 @@ namespace Vaka.Migrations
 
             modelBuilder.Entity("Entities.Models.Product", b =>
                 {
-                    b.HasOne("Entities.Models.Room", "Room")
+                    b.HasOne("Entities.Models.Room", null)
                         .WithMany("Products")
-                        .HasForeignKey("RoomId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("RoomId");
 
-                    b.HasOne("Entities.Models.Store", "Store")
+                    b.HasOne("Entities.Models.Store", null)
                         .WithMany("Products")
-                        .HasForeignKey("StoreId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("StoreId");
+                });
 
-                    b.Navigation("Room");
+            modelBuilder.Entity("Entities.Models.ProductRoom", b =>
+                {
+                    b.HasOne("Entities.Models.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId");
 
-                    b.Navigation("Store");
+                    b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("Entities.Models.ProductStore", b =>
+                {
+                    b.HasOne("Entities.Models.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId");
+
+                    b.Navigation("Product");
                 });
 
             modelBuilder.Entity("Entities.Models.Room", b =>
                 {
                     b.HasOne("Entities.Models.Structure", "Structure")
                         .WithMany("Rooms")
-                        .HasForeignKey("StructureId")
-                        .IsRequired();
+                        .HasForeignKey("StructureId");
 
                     b.Navigation("Structure");
                 });
@@ -416,8 +458,7 @@ namespace Vaka.Migrations
                 {
                     b.HasOne("Entities.Models.Structure", "Structure")
                         .WithMany("Store")
-                        .HasForeignKey("StructureId")
-                        .IsRequired();
+                        .HasForeignKey("StructureId");
 
                     b.Navigation("Structure");
                 });
@@ -426,23 +467,19 @@ namespace Vaka.Migrations
                 {
                     b.HasOne("Entities.Models.Product", "Product")
                         .WithMany("WorkOrder")
-                        .HasForeignKey("ProductId")
-                        .IsRequired();
+                        .HasForeignKey("ProductId");
 
                     b.HasOne("Entities.Models.Room", "Room")
                         .WithMany("WorkOrders")
-                        .HasForeignKey("RoomId")
-                        .IsRequired();
+                        .HasForeignKey("RoomId");
 
                     b.HasOne("Entities.Models.Store", "Store")
                         .WithMany("WorkOrder")
-                        .HasForeignKey("StoreId")
-                        .IsRequired();
+                        .HasForeignKey("StoreId");
 
                     b.HasOne("Entities.Models.Structure", "Structure")
                         .WithMany("WorkOrder")
-                        .HasForeignKey("StructureId")
-                        .IsRequired();
+                        .HasForeignKey("StructureId");
 
                     b.Navigation("Product");
 

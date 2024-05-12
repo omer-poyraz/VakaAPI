@@ -8,6 +8,9 @@
         IStoreRepository StoreRepository { get; }
         IStructureRepository StructureRepository { get; }
         IWorkOrderRepository WorkOrderRepository { get; }
+        IProductStoreRepository ProductStoreRepository { get; }
+        IProductRoomRepository ProductRoomRepository { get; }
+        ISaveStoreRepository SaveStoreRepository { get; }
         Task SaveAsync();
     }
 }

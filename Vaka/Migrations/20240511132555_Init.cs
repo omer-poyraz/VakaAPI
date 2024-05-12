@@ -144,7 +144,7 @@ namespace Vaka.Migrations
                     RoomId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     RoomName = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    StructureId = table.Column<int>(type: "int", nullable: false)
+                    StructureId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -163,7 +163,7 @@ namespace Vaka.Migrations
                     StoreId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     StoreName = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    StructureId = table.Column<int>(type: "int", nullable: false)
+                    StructureId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -227,9 +227,9 @@ namespace Vaka.Migrations
                     ProductId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     ProductName = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    StoreId = table.Column<int>(type: "int", nullable: false),
                     IsExit = table.Column<bool>(type: "bit", nullable: false),
-                    RoomId = table.Column<int>(type: "int", nullable: false)
+                    RoomId = table.Column<int>(type: "int", nullable: true),
+                    StoreId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -238,14 +238,12 @@ namespace Vaka.Migrations
                         name: "FK_Products_Rooms_RoomId",
                         column: x => x.RoomId,
                         principalTable: "Rooms",
-                        principalColumn: "RoomId",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "RoomId");
                     table.ForeignKey(
                         name: "FK_Products_Stores_StoreId",
                         column: x => x.StoreId,
                         principalTable: "Stores",
-                        principalColumn: "StoreId",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "StoreId");
                 });
 
             migrationBuilder.CreateTable(
@@ -256,10 +254,10 @@ namespace Vaka.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     WorkOrderName = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     IsCompleted = table.Column<bool>(type: "bit", nullable: false),
-                    ProductId = table.Column<int>(type: "int", nullable: false),
-                    StructureId = table.Column<int>(type: "int", nullable: false),
-                    RoomId = table.Column<int>(type: "int", nullable: false),
-                    StoreId = table.Column<int>(type: "int", nullable: false)
+                    ProductId = table.Column<int>(type: "int", nullable: true),
+                    StructureId = table.Column<int>(type: "int", nullable: true),
+                    RoomId = table.Column<int>(type: "int", nullable: true),
+                    StoreId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -291,8 +289,8 @@ namespace Vaka.Migrations
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName", "UserId" },
                 values: new object[,]
                 {
-                    { "2d46da01-6638-4ec8-abb0-0ec954365aea", null, "User", "USER", null },
-                    { "d98dcee6-80f7-4554-a52b-fcc539ec24b3", null, "Admin", "ADMIN", null }
+                    { "36e4ac79-7a6d-445b-a73c-a0d32f5b08f7", null, "User", "USER", null },
+                    { "90865320-a395-42b9-9a88-21a2fc82486a", null, "Admin", "ADMIN", null }
                 });
 
             migrationBuilder.CreateIndex(

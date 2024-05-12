@@ -26,6 +26,34 @@ namespace Presentation.Controllers
             return Ok(work.dtos);
         }
 
+        [HttpGet("ProductGet/{productId:int}")]
+        public async Task<IActionResult> GetProductWorkOrderAsync([FromRoute] int productId)
+        {
+            var product = await _manager.WorkOrderService.GetProductWorkOrderAsync(productId, false);
+            return Ok(product);
+        }
+
+        [HttpGet("RoomGet/{roomId:int}")]
+        public async Task<IActionResult> GetRoomWorkOrderAsync([FromRoute] int roomId)
+        {
+            var rooms = await _manager.WorkOrderService.GetRoomWorkOrderAsync(roomId, false);
+            return Ok(rooms);
+        }
+
+        [HttpGet("StoreGet/{storeId:int}")]
+        public async Task<IActionResult> GetStoreWorkOrderAsync([FromRoute] int storeId)
+        {
+            var stores = await _manager.WorkOrderService.GetStoreWorkOrderAsync(storeId, false);
+            return Ok(stores);
+        }
+
+        [HttpGet("StructureGet/{structureId:int}")]
+        public async Task<IActionResult> GetStructureWorkOrderAsync([FromRoute] int structureId)
+        {
+            var structures = await _manager.WorkOrderService.GetStructureWorkOrderAsync(structureId, false);
+            return Ok(structures);
+        }
+
         [HttpGet("Get/{id:int}")]
         public async Task<IActionResult> GetWorkOrderAsync([FromRoute] int id)
         {
@@ -38,6 +66,34 @@ namespace Presentation.Controllers
         {
             var work = await _manager.WorkOrderService.CreateWorkOrderAsync(workOrder);
             return Ok(work);
+        }
+
+        [HttpPost("CreateProduct")]
+        public async Task<IActionResult> CreateProductWorkOrderAsync([FromBody] WorkOrderDtoForProductInsertion workOrderDtoForProductInsertion)
+        {
+            var product = await _manager.WorkOrderService.CreateProductWorkOrderAsync(workOrderDtoForProductInsertion);
+            return Ok(product);
+        }
+
+        [HttpPost("CreateRoom")]
+        public async Task<IActionResult> CreateRoomWorkOrderAsync([FromBody] WorkOrderDtoForRoomInsertion workOrderDtoForRoomInsertion)
+        {
+            var room = await _manager.WorkOrderService.CreateRoomWorkOrderAsync(workOrderDtoForRoomInsertion);
+            return Ok(room);
+        }
+
+        [HttpPost("CreateStore")]
+        public async Task<IActionResult> CreateStoreWorkOrderAsync([FromBody] WorkOrderDtoForStoreInsertion workOrderDtoForStoreInsertion)
+        {
+            var store = await _manager.WorkOrderService.CreateStoreWorkOrderAsync(workOrderDtoForStoreInsertion);
+            return Ok(store);
+        }
+
+        [HttpPost("CreateStructure")]
+        public async Task<IActionResult> CreateStructureWorkOrderAsync([FromBody] WorkOrderDtoForStructureInsertion structureInsertion)
+        {
+            var structure = await _manager.WorkOrderService.CreateStructureWorkOrderAsync(structureInsertion);
+            return Ok(structure);
         }
 
         [HttpPut("Update/{id:int}")]

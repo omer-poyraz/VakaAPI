@@ -20,6 +20,38 @@ namespace Services
             _mapper = mapper;
         }
 
+        public async Task<WorkOrderDto> CreateProductWorkOrderAsync(WorkOrderDtoForProductInsertion productWorkOrderDto)
+        {
+            var room = _mapper.Map<WorkOrder>(productWorkOrderDto);
+            _manager.WorkOrderRepository.CreateProductWorkOrder(room);
+            await _manager.SaveAsync();
+            return _mapper.Map<WorkOrderDto>(room);
+        }
+
+        public async Task<WorkOrderDto> CreateRoomWorkOrderAsync(WorkOrderDtoForRoomInsertion roomWorkOrderDto)
+        {
+            var room = _mapper.Map<WorkOrder>(roomWorkOrderDto);
+            _manager.WorkOrderRepository.CreateRoomWorkOrder(room);
+            await _manager.SaveAsync();
+            return _mapper.Map<WorkOrderDto>(room);
+        }
+
+        public async Task<WorkOrderDto> CreateStoreWorkOrderAsync(WorkOrderDtoForStoreInsertion workOrderDto)
+        {
+            var store = _mapper.Map<WorkOrder>(workOrderDto);
+            _manager.WorkOrderRepository.CreateStoreWorkOrder(store);
+            await _manager.SaveAsync();
+            return _mapper.Map<WorkOrderDto>(store);
+        }
+
+        public async Task<WorkOrderDto> CreateStructureWorkOrderAsync(WorkOrderDtoForStructureInsertion workOrderDto)
+        {
+            var structure = _mapper.Map<WorkOrder>(workOrderDto);
+            _manager.WorkOrderRepository.CreateProductWorkOrder(structure);
+            await _manager.SaveAsync();
+            return _mapper.Map<WorkOrderDto>(structure);
+        }
+
         public async Task<WorkOrderDto> CreateWorkOrderAsync(WorkOrderDtoForInsertion workOrderDto)
         {
             var work = _mapper.Map<WorkOrder>(workOrderDto);
@@ -41,6 +73,30 @@ namespace Services
             var works = await _manager.WorkOrderRepository.GetAllWorkOrdersAsync(parameters, trackChanges);
             var workDto = _mapper.Map<IEnumerable<WorkOrderDto>>(works);
             return (workDto, works.MetaData);
+        }
+
+        public async Task<IEnumerable<WorkOrderDto>> GetProductWorkOrderAsync(int productId, bool trackChanges)
+        {
+            var products = await _manager.WorkOrderRepository.GetProductWorkOrderAsync(productId, trackChanges);
+            return _mapper.Map<IEnumerable<WorkOrderDto>>(products);
+        }
+
+        public async Task<IEnumerable<WorkOrderDto>> GetRoomWorkOrderAsync(int roomId, bool trackChanges)
+        {
+            var rooms = await _manager.WorkOrderRepository.GetRoomWorkOrderAsync(roomId, trackChanges);
+            return _mapper.Map<IEnumerable<WorkOrderDto>>(rooms);
+        }
+
+        public async Task<IEnumerable<WorkOrderDto>> GetStoreWorkOrderAsync(int storeId, bool trackChanges)
+        {
+            var store = await _manager.WorkOrderRepository.GetStoreWorkOrderAsync(storeId, trackChanges);
+            return _mapper.Map<IEnumerable<WorkOrderDto>>(store);
+        }
+
+        public async Task<IEnumerable<WorkOrderDto>> GetStructureWorkOrderAsync(int structureId, bool trackChanges)
+        {
+            var structures = await _manager.WorkOrderRepository.GetStructureWorkOrderAsync(structureId, trackChanges);
+            return _mapper.Map<IEnumerable<WorkOrderDto>>(structures);
         }
 
         public async Task<WorkOrderDto> GetWorkOrderAsync(int id, bool trackChanges)

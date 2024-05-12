@@ -127,6 +127,122 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Presentation.Controllers.ProductRoomController",
+    "Method": "CreateProductRoomAsync",
+    "RelativePath": "api/ProductRoom/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productRoomDto",
+        "Type": "Entities.DTOs.ProductRoomDto.ProductRoomDtoForInsertion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.ProductRoomController",
+    "Method": "DeleteProductRoomAsync",
+    "RelativePath": "api/ProductRoom/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.ProductRoomController",
+    "Method": "GetProductRoomAsync",
+    "RelativePath": "api/ProductRoom/Get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.ProductRoomController",
+    "Method": "GetAllProductRoomAsync",
+    "RelativePath": "api/ProductRoom/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.ProductStoreController",
+    "Method": "CreateProductStoreAsync",
+    "RelativePath": "api/ProductStore/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productStoreDtoForInsertion",
+        "Type": "Entities.DTOs.ProductStoreDto.ProductStoreDtoForInsertion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.ProductStoreController",
+    "Method": "DeleteProductStoreAsync",
+    "RelativePath": "api/ProductStore/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.ProductStoreController",
+    "Method": "GetProductStoreAsync",
+    "RelativePath": "api/ProductStore/Get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.ProductStoreController",
+    "Method": "GetAllProductStoreAsync",
+    "RelativePath": "api/ProductStore/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Presentation.Controllers.RoomController",
     "Method": "CreateRoomAsync",
     "RelativePath": "api/Room/Create",
@@ -196,6 +312,22 @@
         "Name": "PageSize",
         "Type": "System.Int32",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.RoomController",
+    "Method": "GetAllByStructureAsync",
+    "RelativePath": "api/Room/Structure/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -291,6 +423,22 @@
         "Name": "PageSize",
         "Type": "System.Int32",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.StoreController",
+    "Method": "GetAllStoresByStructureAsync",
+    "RelativePath": "api/Store/Structure/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -529,6 +677,70 @@
   },
   {
     "ContainingType": "Presentation.Controllers.WorkOrderController",
+    "Method": "CreateProductWorkOrderAsync",
+    "RelativePath": "api/WorkOrder/CreateProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workOrderDtoForProductInsertion",
+        "Type": "Entities.DTOs.WorkOrderDto.WorkOrderDtoForProductInsertion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.WorkOrderController",
+    "Method": "CreateRoomWorkOrderAsync",
+    "RelativePath": "api/WorkOrder/CreateRoom",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workOrderDtoForRoomInsertion",
+        "Type": "Entities.DTOs.WorkOrderDto.WorkOrderDtoForRoomInsertion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.WorkOrderController",
+    "Method": "CreateStoreWorkOrderAsync",
+    "RelativePath": "api/WorkOrder/CreateStore",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workOrderDtoForStoreInsertion",
+        "Type": "Entities.DTOs.WorkOrderDto.WorkOrderDtoForStoreInsertion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.WorkOrderController",
+    "Method": "CreateStructureWorkOrderAsync",
+    "RelativePath": "api/WorkOrder/CreateStructure",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "structureInsertion",
+        "Type": "Entities.DTOs.WorkOrderDto.WorkOrderDtoForStructureInsertion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.WorkOrderController",
     "Method": "DeleteWorkOrderAsync",
     "RelativePath": "api/WorkOrder/Delete/{id}",
     "HttpMethod": "DELETE",
@@ -581,6 +793,70 @@
         "Name": "PageSize",
         "Type": "System.Int32",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.WorkOrderController",
+    "Method": "GetProductWorkOrderAsync",
+    "RelativePath": "api/WorkOrder/ProductGet/{productId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.WorkOrderController",
+    "Method": "GetRoomWorkOrderAsync",
+    "RelativePath": "api/WorkOrder/RoomGet/{roomId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roomId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.WorkOrderController",
+    "Method": "GetStoreWorkOrderAsync",
+    "RelativePath": "api/WorkOrder/StoreGet/{storeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.Controllers.WorkOrderController",
+    "Method": "GetStructureWorkOrderAsync",
+    "RelativePath": "api/WorkOrder/StructureGet/{structureId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "structureId",
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

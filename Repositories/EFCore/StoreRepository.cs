@@ -37,6 +37,14 @@ namespace Repositories.EFCore
             return PagedList<Store>.ToPagedList(stores, parameters.PageNumber, parameters.PageSize);
         }
 
+        public async Task<IEnumerable<Store>> GetAllStoresByStructureAsync(int structureId, bool trackChanges) => await FindAll(trackChanges)
+            .Where(s => s.StructureId.Equals(structureId))
+            .OrderBy(s => s.StoreId)
+            .Include(s => s.WorkOrder)
+            .Include(s => s.Structure)
+            .Include(s => s.Products)
+            .ToListAsync();
+
         public async Task<Store> GetStoreAsync(int id, bool trackChanges) =>
             await FindByCondition(s => s.StoreId.Equals(id), trackChanges)
             .Include(s => s.WorkOrder)

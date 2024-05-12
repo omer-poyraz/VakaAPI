@@ -43,6 +43,12 @@ namespace Services
             return (storeDto, stores.MetaData);
         }
 
+        public async Task<IEnumerable<StoreDto>> GetAllStoresByStructureAsync(int structureId, bool trackChanges)
+        {
+            var store = await _manager.StoreRepository.GetAllStoresByStructureAsync(structureId, trackChanges);
+            return _mapper.Map<IEnumerable<StoreDto>>(store);
+        }
+
         public async Task<StoreDto> GetStoreAsync(int id, bool trackChanges)
         {
             var store = await CheckExists(id, trackChanges);

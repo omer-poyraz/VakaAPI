@@ -26,6 +26,13 @@ namespace Presentation.Controllers
             return Ok(store.storeDtos);
         }
 
+        [HttpGet("Structure/{id:int}")]
+        public async Task<IActionResult> GetAllStoresByStructureAsync([FromRoute] int id)
+        {
+            var store = await _manager.StoreService.GetAllStoresByStructureAsync(id, false);
+            return Ok(store);
+        }
+
         [HttpGet("Get/{id:int}")]
         public async Task<IActionResult> GetStoreAsync([FromRoute] int id)
         {
@@ -48,7 +55,7 @@ namespace Presentation.Controllers
         }
 
         [HttpDelete("Delete/{id:int}")]
-        public async Task<IActionResult> DeleteStoreAsync([FromRoute]int id)
+        public async Task<IActionResult> DeleteStoreAsync([FromRoute] int id)
         {
             var store = await _manager.StoreService.DeleteStoreAsync(id, false);
             return Ok(store);

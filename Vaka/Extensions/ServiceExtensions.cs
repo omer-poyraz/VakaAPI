@@ -42,6 +42,15 @@ namespace Vaka.Extensions
             services.AddScoped<IWorkOrderRepository, WorkOrderRepository>();
             services.AddScoped<IWorkOrderService, WorkOrderService>();
 
+            services.AddScoped<IProductRoomRepository, ProductRoomRepository>();
+            services.AddScoped<IProductRoomService, ProductRoomService>();
+
+            services.AddScoped<IProductStoreRepository, ProductStoreRepository>();
+            services.AddScoped<IProductStoreService, ProductStoreService>();
+
+            services.AddScoped<ISaveStoreRepository, SaveStoreRepository>();
+            services.AddScoped<ISaveStoreService, SaveStoreService>();
+
             services.AddCors(opt =>
             {
                 opt.AddPolicy("CorsPolicy", build => build.AllowAnyHeader().AllowAnyOrigin().AllowAnyMethod().WithExposedHeaders("X-Pagination"));

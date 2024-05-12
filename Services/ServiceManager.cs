@@ -12,8 +12,11 @@ namespace Services
         private readonly IStoreService _storeService;
         private readonly IStructureService _structureService;
         private readonly IWorkOrderService _workOrderService;
+        private readonly IProductRoomService _productRoomService;
+        private readonly IProductStoreService _productStoreService;
+        private readonly ISaveStoreService _saveStoreService;
 
-        public ServiceManager(IAuthenticationService authenticationService, IUserService userService, ILoggerService loggerService, IProductService productService, IRoomService roomService, IStoreService storeService, IStructureService structureService, IWorkOrderService workOrderService)
+        public ServiceManager(IAuthenticationService authenticationService, IUserService userService, ILoggerService loggerService, IProductService productService, IRoomService roomService, IStoreService storeService, IStructureService structureService, IWorkOrderService workOrderService, IProductRoomService productRoomService, IProductStoreService productStoreService, ISaveStoreService saveStoreService)
         {
             _authenticationService = authenticationService;
             _userService = userService;
@@ -23,6 +26,9 @@ namespace Services
             _storeService = storeService;
             _structureService = structureService;
             _workOrderService = workOrderService;
+            _productRoomService = productRoomService;
+            _productStoreService = productStoreService;
+            _saveStoreService = saveStoreService;
         }
 
         public IAuthenticationService AuthenticationService => _authenticationService;
@@ -33,5 +39,8 @@ namespace Services
         public IStoreService StoreService => _storeService;
         public IStructureService StructureService => _structureService;
         public IWorkOrderService WorkOrderService => _workOrderService;
+        public IProductRoomService ProductRoomService => _productRoomService;
+        public IProductStoreService ProductStoreService => _productStoreService;
+        public ISaveStoreService SaveStoreService => _saveStoreService;
     }
 }

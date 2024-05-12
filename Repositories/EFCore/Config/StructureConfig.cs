@@ -8,7 +8,7 @@ namespace Repositories.EFCore.Config
     {
         public void Configure(EntityTypeBuilder<Structure> builder)
         {
-            //builder.HasKey(s => s.StructureId);
+            
         }
     }
 }

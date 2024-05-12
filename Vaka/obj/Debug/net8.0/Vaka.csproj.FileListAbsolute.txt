@@ -157,3 +157,4 @@ C:\Users\user\Desktop\Vaka\Vaka\obj\Debug\net8.0\refint\Vaka.dll
 C:\Users\user\Desktop\Vaka\Vaka\obj\Debug\net8.0\Vaka.pdb
 C:\Users\user\Desktop\Vaka\Vaka\obj\Debug\net8.0\Vaka.genruntimeconfig.cache
 C:\Users\user\Desktop\Vaka\Vaka\obj\Debug\net8.0\ref\Vaka.dll
+C:\Users\user\Desktop\Vaka\Vaka\obj\Debug\net8.0\Vaka.sourcelink.json

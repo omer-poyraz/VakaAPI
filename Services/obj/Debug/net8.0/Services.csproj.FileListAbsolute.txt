@@ -15,3 +15,4 @@ C:\Users\user\Desktop\Vaka\Services\obj\Debug\net8.0\Services.dll
 C:\Users\user\Desktop\Vaka\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\user\Desktop\Vaka\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\user\Desktop\Vaka\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\user\Desktop\Vaka\Services\obj\Debug\net8.0\Services.sourcelink.json

@@ -8,7 +8,7 @@ namespace Repositories.EFCore.Config
     {
         public void Configure(EntityTypeBuilder<Room> builder)
         {
-            builder.HasKey(r => r.RoomId);
+            //builder.HasIndex(r => r.StructureId).IsUnique();
         }
     }
 }

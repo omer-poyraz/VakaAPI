@@ -36,6 +36,12 @@ namespace Services
             return _mapper.Map<RoomDto>(room);
         }
 
+        public async Task<IEnumerable<RoomDto>> GetAllByStructureAsync(int structureId, bool trackChanges)
+        {
+            var rooms = await _manager.RoomRepository.GetAllByStructureAsync(structureId, trackChanges);
+            return _mapper.Map<IEnumerable<RoomDto>>(rooms);
+        }
+
         public async Task<(IEnumerable<RoomDto> roomDto, MetaData metaData)> GetAllProductsAsync(RoomParameters parameters, bool trackChanges)
         {
             var rooms = await _manager.RoomRepository.GetAllRoomsAsync(parameters, trackChanges);

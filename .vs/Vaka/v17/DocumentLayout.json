@@ -3,32 +3,212 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Vaka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\workorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\workorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFB065C6-7C57-4A65-836F-1D3DA88BD898}|Vaka\\Vaka.csproj|c:\\users\\user\\desktop\\vaka\\vaka\\utilities\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB065C6-7C57-4A65-836F-1D3DA88BD898}|Vaka\\Vaka.csproj|solutionrelative:vaka\\utilities\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFB065C6-7C57-4A65-836F-1D3DA88BD898}|Vaka\\Vaka.csproj|c:\\users\\user\\desktop\\vaka\\vaka\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB065C6-7C57-4A65-836F-1D3DA88BD898}|Vaka\\Vaka.csproj|solutionrelative:vaka\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\savestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\savestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\contracts\\isavestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\contracts\\isavestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\savestorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\savestorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\config\\savestoreconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\savestoreconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\contracts\\isavestorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\isavestorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\savestoredto\\savestoredtoforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\savestoredto\\savestoredtoforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\savestoredto\\savestoredtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\savestoredto\\savestoredtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\savestoredto\\savestoredtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\savestoredto\\savestoredtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\savestoredto\\savestoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\savestoredto\\savestoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\savestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\savestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\config\\roomconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\roomconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|c:\\users\\user\\desktop\\vaka\\presentation\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\contracts\\istoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\contracts\\istoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\contracts\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|c:\\users\\user\\desktop\\vaka\\presentation\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\contracts\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\contracts\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\contracts\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\productroomdto\\productroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productroomdto\\productroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\productroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\productroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\productstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\productstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\workorderdto\\workorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\workorderdto\\workorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\workorderdto\\workorderdtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\workorderdto\\workorderdtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\workorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\workorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\roomdto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\roomdto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|c:\\users\\user\\desktop\\vaka\\presentation\\controllers\\productstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\productstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|c:\\users\\user\\desktop\\vaka\\presentation\\controllers\\productroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\productroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|c:\\users\\user\\desktop\\vaka\\presentation\\controllers\\workordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\workordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\productstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\productstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\productroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\productroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\contracts\\iproductstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\contracts\\iproductstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\contracts\\iproductroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\contracts\\iproductroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\productroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\productroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\contracts\\iproductroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iproductroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\productroomdto\\productroomdtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productroomdto\\productroomdtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\productroomdto\\productroomdtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productroomdto\\productroomdtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\productstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\productstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\config\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\contracts\\iproductstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iproductstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\productstoredto\\productstoredtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productstoredto\\productstoredtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\productstoredto\\productstoredtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productstoredto\\productstoredtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\productstoredto\\productstoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productstoredto\\productstoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|c:\\users\\user\\desktop\\vaka\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC3ED52-4DE6-432C-AFEA-83DFDB78BC51}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\productdto\\productdtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +219,60 @@
       "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\config\\structureconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\structureconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Vaka\\Vaka\\Migrations\\20240511130800_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vaka\\Migrations\\20240511130800_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\workorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\workorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\workorderdto\\workorderdtoforproductinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\workorderdto\\workorderdtoforproductinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|c:\\users\\user\\desktop\\vaka\\services\\contracts\\iworkorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040F623A-07E3-4A48-AFDA-D95012C1A401}|Services\\Services.csproj|solutionrelative:services\\contracts\\iworkorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\workorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\workorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\contracts\\iworkorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iworkorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\workorderdto\\workorderdtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\workorderdto\\workorderdtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\workorderdto\\workorderdtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\workorderdto\\workorderdtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\roomdto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\roomdto\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\structuredto\\structuredtoformanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,32 +287,12 @@
       "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\storedto\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\structuredto\\structuredtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\structuredto\\structuredtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\structuredto\\structuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\structuredto\\structuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\models\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\models\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\config\\roomconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\roomconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\config\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\vaka\\repositories\\efcore\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB83BF10-A63D-46DD-AA89-22611DE4832C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\roomdto\\roomdtoforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,14 +305,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\vaka\\entities\\dtos\\roomdto\\roomdtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED3CDF7B-700B-4177-BBE7-56C2B48DF0E2}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\roomdto\\roomdtoforinsertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFB065C6-7C57-4A65-836F-1D3DA88BD898}|Vaka\\Vaka.csproj|c:\\users\\user\\desktop\\vaka\\vaka\\utilities\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFB065C6-7C57-4A65-836F-1D3DA88BD898}|Vaka\\Vaka.csproj|solutionrelative:vaka\\utilities\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFB065C6-7C57-4A65-836F-1D3DA88BD898}|Vaka\\Vaka.csproj|c:\\users\\user\\desktop\\vaka\\vaka\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFB065C6-7C57-4A65-836F-1D3DA88BD898}|Vaka\\Vaka.csproj|solutionrelative:vaka\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +314,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,241 +322,702 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WorkOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\WorkOrderRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EFCore\\WorkOrderRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\WorkOrderRepository.cs",
-              "RelativeToolTip": "Repositories\\EFCore\\WorkOrderRepository.cs",
-              "ViewState": "AQIAABQAAADAMTMzMzMhwCsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T02:14:08.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EFCore\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\EFCore\\UserRepository.cs",
-              "ViewState": "AQIAAAgAAABg/////789wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T02:14:00.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WorkOrderDtoForManipulation.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForManipulation.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForManipulation.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForManipulation.cs",
-              "RelativeToolTip": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForManipulation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "SaveStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\SaveStoreService.cs",
+              "RelativeDocumentMoniker": "Services\\SaveStoreService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\SaveStoreService.cs",
+              "RelativeToolTip": "Services\\SaveStoreService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwDYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:29:54.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WorkOrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDto.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDto.cs",
-              "RelativeToolTip": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:29:37.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductDtoForManipulation.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductDto\\ProductDtoForManipulation.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductDto\\ProductDtoForManipulation.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductDto\\ProductDtoForManipulation.cs",
-              "RelativeToolTip": "Entities\\DTOs\\ProductDto\\ProductDtoForManipulation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:27:30.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WorkOrder.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\WorkOrder.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\WorkOrder.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\WorkOrder.cs",
-              "RelativeToolTip": "Entities\\Models\\WorkOrder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:12:19.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Room.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Room.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Room.cs",
-              "RelativeToolTip": "Entities\\Models\\Room.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T17:01:11.484Z",
+              "WhenOpened": "2024-05-11T22:48:18.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RoomDto.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\RoomDto\\RoomDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\RoomDto\\RoomDto.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\RoomDto\\RoomDto.cs",
-              "RelativeToolTip": "Entities\\DTOs\\RoomDto\\RoomDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Title": "ISaveStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\ISaveStoreService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ISaveStoreService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\ISaveStoreService.cs",
+              "RelativeToolTip": "Services\\Contracts\\ISaveStoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T17:13:42.669Z",
+              "WhenOpened": "2024-05-11T22:46:25.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Vaka\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Vaka\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Vaka\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Vaka\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAB4AAAAAmZmZmZkbwDMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:08:50.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Vaka\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Vaka\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Vaka\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "Vaka\\Utilities\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AQIAACoAAAAAZmZmZmYjwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:09:57.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\SaveStoreRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\SaveStoreRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\SaveStoreRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\SaveStoreRepository.cs",
+              "ViewState": "AQIAAB0AAADAZGZmZuYhwCwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:42:47.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductDto\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductDto\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductDto\\ProductDto.cs",
-              "RelativeToolTip": "Entities\\DTOs\\ProductDto\\ProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Title": "SaveStoreConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\SaveStoreConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\SaveStoreConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\SaveStoreConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\SaveStoreConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:27:15.949Z",
+              "WhenOpened": "2024-05-11T22:42:14.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StoreDtoForManipulation.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StoreDto\\StoreDtoForManipulation.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\StoreDto\\StoreDtoForManipulation.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StoreDto\\StoreDtoForManipulation.cs",
-              "RelativeToolTip": "Entities\\DTOs\\StoreDto\\StoreDtoForManipulation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "DocumentIndex": 2,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\ServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:24:40.347Z",
+              "WhenOpened": "2024-05-11T14:58:30.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "StructureDtoForManipulation.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDtoForManipulation.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\StructureDto\\StructureDtoForManipulation.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDtoForManipulation.cs",
-              "RelativeToolTip": "Entities\\DTOs\\StructureDto\\StructureDtoForManipulation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "ISaveStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\ISaveStoreRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\ISaveStoreRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\ISaveStoreRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\ISaveStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:21:54.644Z",
+              "WhenOpened": "2024-05-11T22:40:28.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeToolTip": "Services\\Contracts\\IServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:50:58.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveStoreDtoForUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForUpdate.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForUpdate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForUpdate.cs",
+              "RelativeToolTip": "Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:37:45.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\RepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryManager.cs",
+              "ViewState": "AQIAACAAAADAyczMzMwuwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:40:48.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "StoreDto.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StoreDto\\StoreDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\StoreDto\\StoreDto.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StoreDto\\StoreDto.cs",
-              "RelativeToolTip": "Entities\\DTOs\\StoreDto\\StoreDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Title": "SaveStoreDtoForManipulation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForManipulation.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForManipulation.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForManipulation.cs",
+              "RelativeToolTip": "Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForManipulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:24:29.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StructureDtoForInsertion.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDtoForInsertion.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\StructureDto\\StructureDtoForInsertion.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDtoForInsertion.cs",
-              "RelativeToolTip": "Entities\\DTOs\\StructureDto\\StructureDtoForInsertion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:21:53.931Z",
+              "WhenOpened": "2024-05-11T22:37:34.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Product.cs",
-              "RelativeToolTip": "Entities\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T17:03:44.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StructureDto.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\StructureDto\\StructureDto.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDto.cs",
-              "RelativeToolTip": "Entities\\DTOs\\StructureDto\\StructureDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:21:38.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RoomConfig.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\RoomConfig.cs",
-              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\RoomConfig.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\RoomConfig.cs",
-              "RelativeToolTip": "Repositories\\EFCore\\Config\\RoomConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:12:59.875Z",
+              "WhenOpened": "2024-05-11T14:40:34.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Store.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Store.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Store.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Store.cs",
-              "RelativeToolTip": "Entities\\Models\\Store.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Title": "SaveStoreDtoForInsertion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForInsertion.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForInsertion.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForInsertion.cs",
+              "RelativeToolTip": "Entities\\DTOs\\SaveStoreDto\\SaveStoreDtoForInsertion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T17:03:46.738Z",
+              "WhenOpened": "2024-05-11T22:37:23.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RoomDtoForUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\RoomDto\\RoomDtoForUpdate.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\RoomDto\\RoomDtoForUpdate.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\RoomDto\\RoomDtoForUpdate.cs",
-              "RelativeToolTip": "Entities\\DTOs\\RoomDto\\RoomDtoForUpdate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 14,
+              "Title": "SaveStoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\SaveStoreDto\\SaveStoreDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\SaveStoreDto\\SaveStoreDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\SaveStoreDto\\SaveStoreDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\SaveStoreDto\\SaveStoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:07:59.165Z",
+              "WhenOpened": "2024-05-11T22:37:12.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaveStore.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\SaveStore.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\SaveStore.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\SaveStore.cs",
+              "RelativeToolTip": "Entities\\Models\\SaveStore.cs",
+              "ViewState": "AQIAAAIAAAAA/v////8QwAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:30:45.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "RoomConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\RoomConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\RoomConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\RoomConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\RoomConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:27:40.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAAAIAAAAAlpmZmVkqwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:05:35.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\StoreService.cs",
+              "RelativeDocumentMoniker": "Services\\StoreService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\StoreService.cs",
+              "RelativeToolTip": "Services\\StoreService.cs",
+              "ViewState": "AQIAACgAAAAAMTMzMzMWwDAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:04:29.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IStoreService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IStoreService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IStoreService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IStoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:03:54.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\StoreRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\StoreRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\StoreRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\StoreRepository.cs",
+              "ViewState": "AQIAABoAAACAyczMzEwbwCgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:02:00.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IStoreRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IStoreRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IStoreRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:01:11.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAA0AAADAZWZmZiYowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:33:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\RoomService.cs",
+              "RelativeToolTip": "Services\\RoomService.cs",
+              "ViewState": "AQIAACsAAACAKjMzMzMgwCkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:32:28.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IRoomService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IRoomService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:31:50.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IRoomRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:28:23.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductRoom.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\ProductRoom.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\ProductRoom.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\ProductRoom.cs",
+              "RelativeToolTip": "Entities\\Models\\ProductRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:26:09.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Product.cs",
+              "RelativeToolTip": "Entities\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:03:44.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\RoomRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RoomRepository.cs",
+              "ViewState": "AQIAABMAAABAMDMzM/MtwBoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:13:14.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductStore.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\ProductStore.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\ProductStore.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\ProductStore.cs",
+              "RelativeToolTip": "Entities\\Models\\ProductStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:26:19.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductRoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductRoomDto\\ProductRoomDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductRoomDto\\ProductRoomDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductRoomDto\\ProductRoomDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ProductRoomDto\\ProductRoomDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:28:48.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WorkOrder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\WorkOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\WorkOrder.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\WorkOrder.cs",
+              "RelativeToolTip": "Entities\\Models\\WorkOrder.cs",
+              "ViewState": "AQIAAAQAAADwMjMzM5MwwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:12:19.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WorkOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:16:23.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductRoomController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\ProductRoomController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductRoomController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\ProductRoomController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ProductRoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:59:30.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductStoreController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\ProductStoreController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductStoreController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\ProductStoreController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ProductStoreController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAjwCsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:59:40.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\ProductStoreService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductStoreService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\ProductStoreService.cs",
+              "RelativeToolTip": "Services\\ProductStoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:51:39.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WorkOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\WorkOrderController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\WorkOrderController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\WorkOrderController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\WorkOrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:57:34.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\ProductRoomService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductRoomService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\ProductRoomService.cs",
+              "RelativeToolTip": "Services\\ProductRoomService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAswC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:51:32.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProductStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IProductStoreService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IProductStoreService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IProductStoreService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IProductStoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:47:27.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IProductRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IProductRoomService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IProductRoomService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IProductRoomService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IProductRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:46:54.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\ProductRoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\ProductRoomRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\ProductRoomRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\ProductRoomRepository.cs",
+              "ViewState": "AQIAAA0AAABAmZmZmRktwBwAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:44:17.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IProductRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IProductRoomRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IProductRoomRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IProductRoomRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IProductRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:42:06.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductRoomDtoForInsertion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductRoomDto\\ProductRoomDtoForInsertion.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductRoomDto\\ProductRoomDtoForInsertion.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductRoomDto\\ProductRoomDtoForInsertion.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ProductRoomDto\\ProductRoomDtoForInsertion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:29:12.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductRoomDtoForManipulation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductRoomDto\\ProductRoomDtoForManipulation.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductRoomDto\\ProductRoomDtoForManipulation.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductRoomDto\\ProductRoomDtoForManipulation.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ProductRoomDto\\ProductRoomDtoForManipulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:28:58.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\ProductStoreRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\ProductStoreRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\ProductStoreRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\ProductStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:37:35.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IProductStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IProductStoreRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IProductStoreRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IProductStoreRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IProductStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:34:22.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\ProductConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\ProductConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\ProductConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\ProductConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:16:47.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\ProductRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:57:40.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProductStoreDtoForInsertion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductStoreDto\\ProductStoreDtoForInsertion.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductStoreDto\\ProductStoreDtoForInsertion.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductStoreDto\\ProductStoreDtoForInsertion.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ProductStoreDto\\ProductStoreDtoForInsertion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:31:59.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProductStoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductStoreDto\\ProductStoreDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductStoreDto\\ProductStoreDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductStoreDto\\ProductStoreDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ProductStoreDto\\ProductStoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:31:38.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductStoreDtoForManipulation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductStoreDto\\ProductStoreDtoForManipulation.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductStoreDto\\ProductStoreDtoForManipulation.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductStoreDto\\ProductStoreDtoForManipulation.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ProductStoreDto\\ProductStoreDtoForManipulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:31:49.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductDto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductDto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductDto\\ProductDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ProductDto\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:27:15.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA8AAAAAYWZmZiYowBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:46:33.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductDtoForManipulation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductDto\\ProductDtoForManipulation.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\ProductDto\\ProductDtoForManipulation.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\ProductDto\\ProductDtoForManipulation.cs",
+              "RelativeToolTip": "Entities\\DTOs\\ProductDto\\ProductDtoForManipulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:27:30.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StructureConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\StructureConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\StructureConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\StructureConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\StructureConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:59:21.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Store.cs",
+              "RelativeToolTip": "Entities\\Models\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:03:46.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
               "Title": "Structure.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Structure.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\Structure.cs",
@@ -360,38 +1025,215 @@
               "RelativeToolTip": "Entities\\Models\\Structure.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T17:03:47.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T17:03:47.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\RoomRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EFCore\\RoomRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\RoomRepository.cs",
-              "RelativeToolTip": "Repositories\\EFCore\\RoomRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAArwBAAAAAZAAAA",
+              "DocumentIndex": 57,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\Models\\Room.cs",
+              "RelativeToolTip": "Entities\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:13:14.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T17:01:11.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProductConfig.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\ProductConfig.cs",
-              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\ProductConfig.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\Config\\ProductConfig.cs",
-              "RelativeToolTip": "Repositories\\EFCore\\Config\\ProductConfig.cs",
+              "DocumentIndex": 58,
+              "Title": "20240511130800_Init.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Vaka\\Migrations\\20240511130800_Init.cs",
+              "RelativeDocumentMoniker": "Vaka\\Migrations\\20240511130800_Init.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Vaka\\Migrations\\20240511130800_Init.cs",
+              "RelativeToolTip": "Vaka\\Migrations\\20240511130800_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:08:00.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "WorkOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\WorkOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\WorkOrderService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\WorkOrderService.cs",
+              "RelativeToolTip": "Services\\WorkOrderService.cs",
+              "ViewState": "AQIAAAoAAACA8////38ZwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:52:42.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IWorkOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IWorkOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IWorkOrderService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Services\\Contracts\\IWorkOrderService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IWorkOrderService.cs",
+              "ViewState": "AQIAAAMAAADAy8zMzAwswA0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:52:46.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "WorkOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\WorkOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\WorkOrderRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\WorkOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\WorkOrderRepository.cs",
+              "ViewState": "AQIAABoAAABAyszMzIwhwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:35:33.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "WorkOrderDtoForProductInsertion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForProductInsertion.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForProductInsertion.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForProductInsertion.cs",
+              "RelativeToolTip": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForProductInsertion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:32:42.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IWorkOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IWorkOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IWorkOrderRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\Contracts\\IWorkOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IWorkOrderRepository.cs",
+              "ViewState": "AQIAAAUAAADAmZmZmRkWwA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:47:12.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "WorkOrderDtoForManipulation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForManipulation.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForManipulation.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForManipulation.cs",
+              "RelativeToolTip": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForManipulation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:16:47.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T12:32:19.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 65,
+              "Title": "WorkOrderDtoForInsertion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForInsertion.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForInsertion.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForInsertion.cs",
+              "RelativeToolTip": "Entities\\DTOs\\WorkOrderDto\\WorkOrderDtoForInsertion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:32:17.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Repositories\\EFCore\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\UserRepository.cs",
+              "ViewState": "AQIAAAgAAABg/////789wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T02:14:00.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\RoomDto\\RoomDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\RoomDto\\RoomDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\RoomDto\\RoomDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\RoomDto\\RoomDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:13:42.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "StoreDtoForManipulation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StoreDto\\StoreDtoForManipulation.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\StoreDto\\StoreDtoForManipulation.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StoreDto\\StoreDtoForManipulation.cs",
+              "RelativeToolTip": "Entities\\DTOs\\StoreDto\\StoreDtoForManipulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:24:40.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "StructureDtoForManipulation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDtoForManipulation.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\StructureDto\\StructureDtoForManipulation.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDtoForManipulation.cs",
+              "RelativeToolTip": "Entities\\DTOs\\StructureDto\\StructureDtoForManipulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:21:54.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "StoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StoreDto\\StoreDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\StoreDto\\StoreDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StoreDto\\StoreDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\StoreDto\\StoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:24:29.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "StructureDtoForInsertion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDtoForInsertion.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\StructureDto\\StructureDtoForInsertion.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDtoForInsertion.cs",
+              "RelativeToolTip": "Entities\\DTOs\\StructureDto\\StructureDtoForInsertion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:21:53.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "StructureDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\StructureDto\\StructureDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\StructureDto\\StructureDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\StructureDto\\StructureDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:21:38.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "RoomDtoForUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\RoomDto\\RoomDtoForUpdate.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\RoomDto\\RoomDtoForUpdate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\RoomDto\\RoomDtoForUpdate.cs",
+              "RelativeToolTip": "Entities\\DTOs\\RoomDto\\RoomDtoForUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:07:59.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
               "Title": "RoomDtoForInsertion.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\RoomDto\\RoomDtoForInsertion.cs",
               "RelativeDocumentMoniker": "Entities\\DTOs\\RoomDto\\RoomDtoForInsertion.cs",
@@ -399,12 +1241,11 @@
               "RelativeToolTip": "Entities\\DTOs\\RoomDto\\RoomDtoForInsertion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:07:56.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T00:07:56.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 74,
               "Title": "RoomDtoForManipulation.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Entities\\DTOs\\RoomDto\\RoomDtoForManipulation.cs",
               "RelativeDocumentMoniker": "Entities\\DTOs\\RoomDto\\RoomDtoForManipulation.cs",
@@ -412,32 +1253,7 @@
               "RelativeToolTip": "Entities\\DTOs\\RoomDto\\RoomDtoForManipulation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:06:38.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Vaka\\Utilities\\AutoMapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Vaka\\Utilities\\AutoMapper\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Vaka\\Utilities\\AutoMapper\\MappingProfile.cs",
-              "RelativeToolTip": "Vaka\\Utilities\\AutoMapper\\MappingProfile.cs",
-              "ViewState": "AQIAAAYAAAAw/f////8gwBkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T17:08:28.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Vaka\\Vaka\\Extensions\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Vaka\\Extensions\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Vaka\\Vaka\\Extensions\\ServiceExtensions.cs",
-              "RelativeToolTip": "Vaka\\Extensions\\ServiceExtensions.cs",
-              "ViewState": "AQIAAAUAAACAu8zMzMwXwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T17:06:00.05Z"
+              "WhenOpened": "2024-05-11T00:06:38.125Z"
             }
           ]
         }
